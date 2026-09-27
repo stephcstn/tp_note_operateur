@@ -1,0 +1,1 @@
+g++ -std=c++11 -Wall -Wextra -pedantic main.cpp vecteurD.cpp -o tp_vecteur
